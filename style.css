@@ -516,6 +516,10 @@
     flex-wrap: wrap;
 }
 
+.navigation .nav-active{
+color: #719941; /* Le vert Karacol */ font-weight: bolder; }  
+
+
 .contact-info,
 .contact-form {
     flex: 1;
